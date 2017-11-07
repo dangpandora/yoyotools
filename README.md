@@ -1,3 +1,3 @@
 # yoyotools
-This is only for beginners 
-this respository contains some small python scripts for Bioinformatics data analysis 
+This is only for beginners \n
+This respository contains some small python scripts for Bioinformatics data analysis 
